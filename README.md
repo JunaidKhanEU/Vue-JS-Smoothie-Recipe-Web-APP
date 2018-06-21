@@ -6,6 +6,7 @@ Full CRUD operation in Realtime, user can add smoothie with title and different 
 User can delete the Smoothie recipe.
 User can edit Smoothie ingredients on a seperate dedicated page.
 Realtime App with live data updates locally and in cloud.
+LifeHooks used specially created() for get the data.
 Form Validation for inputs.
 Vue Router with Parameters.
 For UI i used Material Design by Google.
