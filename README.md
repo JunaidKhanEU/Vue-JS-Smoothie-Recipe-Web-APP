@@ -1,5 +1,5 @@
 # Vue-JS-Smoothie-Recipe-Web-APP
-Vue JS complete Smoothie recipe web APP(desktop version) with Firestore Database and Firebase hosting.
+Vue JS complete Smoothie recipe web APP(Material Design & Css Grid @responsive Design) with Firestore Database and Firebase hosting.
 This Web App is Vue fullstack app using Vue Js as Front-End and use Firebase as a Back-End.
 Main Features:
 Full CRUD operation in Realtime, user can add smoothie with title and different ingredients.
